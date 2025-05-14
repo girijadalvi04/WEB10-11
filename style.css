@@ -1,0 +1,16 @@
+/* p{
+    color: aqua;
+    background-color: blue;
+} 
+h1{
+    color: aliceblue;
+    background-color: pink;
+} */
+
+
+ p{
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing:auto;
+    font-weight:weight;
+    font-style:normal;
+  }

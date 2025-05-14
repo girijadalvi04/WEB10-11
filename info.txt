@@ -1,0 +1,95 @@
+css- 
+style 
+alignment 
+properties 
+
+types- 
+Inline css 
+Internal css 
+External css 
+
+css color- 
+RGB/RGBA  
+r-(0-255) g-(0-255) b-(0-255) 
+opacity/Alpha(0-full transparent) (1= full color)
+
+HSL/HSLA 
+h-Hue in degree (0-360) 0=red, 120=green, 240=blue
+S-Saturation in % 0% light shade of grey 100 full color(dark shade)
+L-lightness in %
+Hexadecimal
+0-15 
+0-9 10 a-f 
+predefined colors 
+
+
+ID/Class 
+
+cafe menu
+create a list(ul,ol,nested,def) 
+css implement 
+
+assignment-marksheet (table) 
+
+position property- 
+static bydefault l/r/t/b
+relative behave acc to the document flow 
+absolute flow parent 
+sticky 
+fixed 
+
+left 
+right 
+top 
+bottom 
+
+
+
+display property- 
+block 
+inline-block 
+inline  
+
+overflow-
+scrolling 
+hidden 
+
+assignment
+fullnavbar/dropdownmenu 
+
+animation prop-
+
+css 
+keyframes 
+
+animation name 
+duration
+
+timing function
+linear -constant 
+ease-bydefault
+ease in - slow start fast end
+easeout -fast fast slow end
+ease-in-out - slow and slow end
+cubic
+step 
+
+
+delay 
+iteration count 
+direction 
+play state
+
+
+login form- username,password
+registration form - username,email,contactno,set password,confirm password,city,gender 
+
+
+git init- initialization
+git clone- copy paste
+git branch- main/master
+push- upload laptop to github
+pull- upload github to laptop
+status- 
+commit- save 
+
